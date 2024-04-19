@@ -3,53 +3,6 @@
 
 Une API qui permet aux clients de découvrir et de reproduire les recettes emblématiques du restaurant chez eux. Ce projet vise à enrichir l'expérience du client en lui donnant un aperçu des coulisses culinaires du restaurant.
 
-## Modalités Pédagogiques
-
-- Activité en équipe de 3 (ou 2)  personnes.
-- Deadline: 6 jours.
-  
-## Étapes du Projet
-
-### 1. Planification du Projet
-
-- Définition des endpoints de l'API.
-- Elaboration de la documentation de l'API à l'aide de Swagger.
-- Utilisation de la méthode SCRUM pour une gestion de projet efficace.
-- Désignation d'un scrum master.
-- Le PO est le formateur.
-- Mise en place de Kanban avec lien entre issue et branche.
-- Backlog, sprint de 2 jours, daily, revue, retrospective.
-
-### 2. Découpage Technique
-
-- Création des modèles de données pour les recettes, ingrédients et méthodes de préparation.
-- Mise en œuvre des contrôleurs API.
-- Sécurisation de l'API.
-
-### 3. Développement
-
-- Implémentation des routes API pour l'ajout, la mise à jour, la suppression et la consultation des recettes.
-- Tests unitaires et d'intégration.
-
-## Fonctionnalités Principales de l'API
-
-- Consultation des recettes : Accès détaillé aux recettes avec ingrédients et étapes.
-- Gestion des recettes : Interface pour le personnel du restaurant pour ajouter et modifier les recettes.
-
-## Eléments Techniques Attendus
-
-- Architecture RESTful.
-- Utilisation du pattern Repository avec l'injection de dépendance.
-- Authentification et autorisation pour l'accès sécurisé.
-- Base de données PostgreSQL ou MongoDB via Docker.
-- Tests unitaires et d'intégration.
-
-## Modalités d'Évaluation
-
-Présentation de l'API devant un jury:
-
-- Démonstration des fonctionnalités via des requêtes API.
-- Explication de la structure du code et des choix techniques.
 
  ## Modèle conceptuel de données
 
